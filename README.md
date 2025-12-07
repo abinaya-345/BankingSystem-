@@ -1,4 +1,5 @@
-#BankingSystem-
+      #BankingSystem
+
 A BankingSystem is a software system that manages customer accounts, transactions, and banking operations. It allows users to create accounts, deposit/withdraw money, transfer funds, and check balances. The system ensures secure transactions, maintains accurate records, and provides a user-friendly interface.
 
 🏦 Banking Information System - Core Java Prototype
@@ -43,7 +44,7 @@ Educators and learners wanting a practical Java banking application example cove
 
 🛠️ How to Run
 repository
-git clone https:
+git clone https:https://github.com/abinaya-345/BankingSystem-
 
 Compile the Java project in cmd
 javac BankingSystem.java
