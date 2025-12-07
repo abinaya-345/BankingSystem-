@@ -43,7 +43,7 @@ Educators and learners wanting a practical Java banking application example cove
 
 🛠️ How to Run
 repository
-git clone https://github.com/abinaya/banking-information-system.git
+git clone https:
 
 Compile the Java project in cmd
 javac BankingSystem.java
